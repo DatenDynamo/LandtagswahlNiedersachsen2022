@@ -8,6 +8,9 @@ https://github.com/Pold87/academic-keyword-occurrence/tree/v1.0.0
 
 The extractet text are can be found in the R subfolder "Wahlporgramme und Koalitionsvertra"
 
+The main work is the RCode (/R/Script_Untersuchung_Wahlprogramme.R) 
+Some parts of the code are based on Nicolas Merz' analysis-zeitonline https://github.com/nicmer/analysis-zeitonline
+
 Some of the createt plots you can find below. All original SVG-Filescan be found in the folder "R"
 
 <h2>Sentences with digitization reference comparison</h2>
