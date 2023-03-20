@@ -3,6 +3,9 @@
 For a term paper in my political science studies at Georg-August-Universität Göttingen, I conducted an analysis with R of the election programmes of the parties SPD and Grüne for the Lower Saxony state elections in 2022. 
 Find the Python scripts for the extraction of the texts from the PDF and the RCode of the analysis in the folders.
 
+The Google Scholar term occurence script is made by Volker Strobel. Please take a look at his Repo:
+https://github.com/Pold87/academic-keyword-occurrence/tree/v1.0.0
+
 The extractet text are can be found in the R subfolder "Wahlporgramme und Koalitionsvertra"
 
 Some of the createt plots you can find below. All original SVG-Filescan be found in the folder "R"
